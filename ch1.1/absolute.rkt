@@ -6,5 +6,3 @@
         ((= a 0) 0)))
 
 (absolute_number 44)
-
-
